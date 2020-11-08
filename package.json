@@ -6,7 +6,7 @@
     "dev": "nodemon -w src/server src/server/server.js",
     "build": "next build",
     "export": "next export",
-    "start": "NODE_ENV=production nodemon -w src/server src/server/server.js",
+    "start": "NODE_ENV=production nodemon -w src/server src/server/server.js"
   },
   "dependencies": {
     "@material-ui/core": "^4.11.0",
