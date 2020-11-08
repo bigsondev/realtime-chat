@@ -1,0 +1,21 @@
+.mr8 {
+  margin-right: 8px;
+}
+
+.mt8 {
+  margin-top: 8px;
+}
+
+.mb8 {
+  margin-bottom: 8px;
+}
+
+.ml16 {
+  margin-left: 16px;
+}
+
+.icon {
+  width: 48px !important;
+  height: 48px !important;
+  fill: #2f80ed !important;
+}
