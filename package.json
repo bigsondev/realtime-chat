@@ -2,6 +2,9 @@
   "name": "realtime-chat",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "12.17.x"
+  },
   "scripts": {
     "dev": "nodemon -w src/server src/server/server.js",
     "build": "next build",
