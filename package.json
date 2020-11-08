@@ -8,7 +8,7 @@
   "scripts": {
     "dev": "nodemon -w src/server src/server/server.js",
     "build": "next build",
-    "start": "next start -p $PORT"
+    "start": "NODE_ENV=production node src/server/server.js -p $PORT"
   },
   "dependencies": {
     "@material-ui/core": "^4.11.0",
