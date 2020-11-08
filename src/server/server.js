@@ -7,7 +7,7 @@ const dev = process.env.NODE_ENV !== 'production';
 const nextApp = next({ dev });
 const nextHandler = nextApp.getRequestHandler();
 
-const PORT = 3000;
+const PORT = process.env.port || 3000;
 let users = [];
 
 const createNickname = (usersCount) => `User ${usersCount}`;
