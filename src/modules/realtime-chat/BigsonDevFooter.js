@@ -13,7 +13,15 @@ export const BigsonDevFooter = () => {
   return (
     <Box mt={3}>
       <Typography align="center" variant="body2" gutterBottom>
-        Made with <Favorite color="secondary" /> by{' '}
+        Made with{' '}
+        <Favorite
+          style={{
+            width: '24px !important',
+            height: '24px !important',
+            fill: '#F50357 !important',
+          }}
+        />{' '}
+        by{' '}
         <Link
           href="https://bigsondev.com/"
           target="_blank"
