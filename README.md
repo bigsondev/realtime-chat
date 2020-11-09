@@ -6,11 +6,11 @@ Hi there, great you seek knowledge.
 
 Learning by doing is the best way to progress with your coding skills.
 
-This project is a an example solution to: [Realtime Chat Project](https://bigsondev.com/library/book-cover-project/).
+This project is a an example solution to: [Realtime Chat Project](https://bigsondev.com/library/realtime-chat-project/).
 
 If you get stuck with your own solution, feel free to browse the code as a reference or reach out to me through [Slack](https://bigsondev.com/start-here/#bigsondev-slack).
 
-Deployed version can be found here: [Realtime Chat by BigsonDev](https://relaxed-wing-eb4d99.netlify.app/).
+Deployed version can be found here: [Realtime Chat by BigsonDev](https://morning-meadow-64994.herokuapp.com/).
 
 # Support
 
